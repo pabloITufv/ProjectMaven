@@ -2,9 +2,9 @@ package com.pruebaCSV;
 
 import com.opencsv.CSVReader;
 
-import java.io.FileNotFoundException;
+
 import java.io.FileReader;
-import java.sql.SQLOutput;
+
 
 /*
 Esta clase se encarga de leer el archivo .csv que se le pase por parametro.
